@@ -6,19 +6,62 @@
 
 
 
-《跟老卫学仓颉编程语言开发》是一本 仓颉编程语言 应用开发的开源学习教程，主要介绍如何从0开始开发 仓颉编程语言 应用。本书包括最新版本  仓颉编程语言 0.53.8 中的新特性。图文并茂，并通过大量实例带你走近 仓颉编程语言 的世界！
+《跟老卫学仓颉编程语言开发》是一本 仓颉编程语言 应用开发的开源学习教程，主要介绍如何从0开始开发 仓颉编程语言 应用。本书包括最新版本  仓颉编程语言 0.53.13 中的新特性。图文并茂，并通过大量实例带你走近 仓颉编程语言 的世界！
 
-本书业余时间所著，由于笔者能力有限、时间仓促，书中难免有疏漏之处，欢迎读者批评指正。
+本书业余时间所著，书中如有错漏之处，敬请斧正，欢迎读者通过以下方式与笔者联系。
 
 
 
 ## Summary 目录
 
 * [HarmonyOS NEXT仓颉编程语言开发环境搭建（安装DevEco Studio Cangjie Plugin）](https://waylau.com/install-deveco-studio-cangjie-plugin/)
+* [仓颉编程语言开发环境搭建（安装仓颉工具链）](https://waylau.com/install-cangjie-lang/)
 
 ## Samples 示例
 
 * [Hello World](samples/hello_world)
+* [变量与常量](samples/variable_demo)
+* [函数](samples/function_demo)
+* [注释](samples/comment_demo)
+* [流程控制](samples/flow_control_demo)
+* [猜数字游戏](samples/guessing_game)
+* [操作字符串](samples/string_demo)
+* [数组类型](samples/array_demo)
+* [将包含句号的句子转为单词](samples/convert_sentences_containing_period_into_words)
+* [面向对象的图形](samples/oo_for_shape)
+* [猜数字游戏（模式匹配）](samples/pattern_match_guessing_game)
+* [“剪刀石头布”游戏](samples/rock_paper_scissors)
+* [泛型函数](samples/generic_function_demo)
+* [泛型结构体](samples/generic_struct_demo)
+* [动物发声模拟器](samples/animal_vocal_simulator)
+* [使用ArrayList](samples/arraylist_demo)
+* [使用HashSet](samples/hashset_demo)
+* [使用HashMap](samples/hashmap_demo)
+* [名字的漂亮度](samples/the_beauty_of_the_name)
+* [throw和处理异常](samples/exception_demo)
+* [“剪刀石头布”游戏的异常处理](samples/rock_paper_scissors_with_exception)
+* [带传参的名字的漂亮度](samples/the_beauty_of_the_name_with_parameter)
+* [读写文件](samples/basic_io_file_demo)
+* [获取文件元数据](samples/file_info)
+* [使用HashSet](samples/word_frequency)
+* [词频统计](samples/word_frequency)
+* [删除字符串中出现次数最少的字符](samples/delete_least_occurring_character_from_string)
+* [龟兔赛跑](samples/the_tortoise_and_the_hare)
+* [‌多窗口售票](samples/multi_window_ticket_sales)
+* [‌宏的入门](samples/macro_introduction_demo)
+* [‌快速幂的计算](samples/macro_power)
+* [‌‌多行dprint宏](samples/macro_muti_dprint)
+* [‌创建TCP服务器](samples/tcp_demo)
+* [‌创建UDP服务器](samples/udp_demo)
+* [‌构建HTTP服务](samples/http_demo)
+* [‌构建REST服务](samples/http_rest_demo)
+* [‌CJPM入门](samples/cjpm_demo)
+* [‌编写仓颉单元测试用例](samples/unittest_demo)
+* [‌编写Mocking框架测试用例](samples/unittest_mock_demo)
+* [‌统计仓颉编程语言的运行性能](samples/performance_test_of_accumulator)
+* [‌实现KV数据库](samples/kv_store)
+* [‌实现雪花算法](samples/snowflake_algorithm)
+* [‌实现HarmonyOS瀑布流](samples/CangjieHarmonyOSWaterFlow)
 * 未完待续...
 
 
