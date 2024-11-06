@@ -1,0 +1,8 @@
+# MSVC Windows builds of cjc generate these, which store debugging information
+*.cjo
+*.exe
+*.bchir2
+target/
+cjpm.lock
+.vscode/
+.cache/
