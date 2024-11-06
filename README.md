@@ -16,6 +16,7 @@
 
 * [HarmonyOS NEXT仓颉编程语言开发环境搭建（安装DevEco Studio Cangjie Plugin）](https://waylau.com/install-deveco-studio-cangjie-plugin/)
 * [仓颉编程语言开发环境搭建（安装仓颉工具链）](https://waylau.com/install-cangjie-lang/)
+* [仓颉编程语言开发环境搭建（安装VSCode仓颉插件）](https://waylau.com/install-cangjie-plugin-in-vscode/)
 
 ## Samples 示例
 
