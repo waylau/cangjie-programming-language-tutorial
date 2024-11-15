@@ -8,15 +8,17 @@
 
 《跟老卫学仓颉编程语言开发》是一本 仓颉编程语言 应用开发的开源学习教程，主要介绍如何从0开始开发 仓颉编程语言 应用。本书包括最新版本  仓颉编程语言 0.53.13 中的新特性。图文并茂，并通过大量实例带你走近 仓颉编程语言 的世界！
 
-本书业余时间所著，书中如有错漏之处，敬请斧正，欢迎读者通过以下方式与笔者联系。
+本书业余时间所著，书中如有错漏之处，敬请斧正。
 
-
+有关HarmonyOS应用开发的内容，可以参考《[跟老卫学HarmonyOS开发](https://github.com/waylau/harmonyos-tutorial)》。
 
 ## Summary 目录
 
-* [HarmonyOS NEXT仓颉编程语言开发环境搭建（安装DevEco Studio Cangjie Plugin）](https://waylau.com/install-deveco-studio-cangjie-plugin/)
+
 * [仓颉编程语言开发环境搭建（安装仓颉工具链）](https://waylau.com/install-cangjie-lang/)
 * [仓颉编程语言开发环境搭建（安装VSCode仓颉插件）](https://waylau.com/install-cangjie-plugin-in-vscode/)
+* [DevEco Studio 5.0.1 Beta3安装及配置](https://developer.huawei.com/consumer/cn/forum/topic/0201167060557489345)
+* [HarmonyOS NEXT仓颉编程语言开发环境搭建（安装DevEco Studio Cangjie Plugin）](https://waylau.com/install-deveco-studio-cangjie-plugin/)
 
 ## Samples 示例
 
@@ -81,6 +83,8 @@
 
 
 ## Issue 意见、建议
+
+
 
 如有勘误、意见或建议欢迎拍砖 <https://github.com/waylau/cangjie-programming-language-tutorial/issues>
 
