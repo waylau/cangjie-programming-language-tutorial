@@ -19,6 +19,10 @@
 * [仓颉编程语言开发环境搭建（安装VSCode仓颉插件）](https://waylau.com/install-cangjie-plugin-in-vscode/)
 * [DevEco Studio 5.0.1 Beta3安装及配置](https://developer.huawei.com/consumer/cn/forum/topic/0201167060557489345)
 * [HarmonyOS NEXT仓颉编程语言开发环境搭建（安装DevEco Studio Cangjie Plugin）](https://waylau.com/install-deveco-studio-cangjie-plugin/)
+* [仓颉开发HarmonyOS，报错error: undeclared identifier 'ViewStackProcessor'](https://developer.huawei.com/consumer/cn/forum/topic/0203168734455974805)
+* [仓颉开发HarmonyOS，@Builder 和@Component的区别？](https://developer.huawei.com/consumer/cn/forum/topic/0201168738273407796)
+* [仓颉开发HarmonyOS，internal import 和import 有什么区别？	](https://developer.huawei.com/consumer/cn/forum/topic/0201168738630513798)
+* [“AI智能助手APP全流程开发实战”实战课程简介](https://developer.huawei.com/consumer/cn/forum/topic/0207177697979523118)
 
 ## Samples 示例
 
