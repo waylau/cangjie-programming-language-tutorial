@@ -22,7 +22,7 @@
 * [仓颉开发HarmonyOS，报错error: undeclared identifier 'ViewStackProcessor'](https://developer.huawei.com/consumer/cn/forum/topic/0203168734455974805)
 * [仓颉开发HarmonyOS，@Builder 和@Component的区别？](https://developer.huawei.com/consumer/cn/forum/topic/0201168738273407796)
 * [仓颉开发HarmonyOS，internal import 和import 有什么区别？	](https://developer.huawei.com/consumer/cn/forum/topic/0201168738630513798)
-* [“AI智能助手APP全流程开发实战”实战课程简介](https://developer.huawei.com/consumer/cn/forum/topic/0207177697979523118)
+* [“HarmonyOS NEXT+AI大模型打造智能助手APP(仓颉版)”实战课程简介](https://developer.huawei.com/consumer/cn/forum/topic/0207177697979523118)
 
 ## Samples 示例
 
@@ -83,6 +83,17 @@
 ## Code 源码
 
 书中所有示例源码，移步至<https://github.com/waylau/cangjie-programming-language-tutorial>的 `samples` 目录下。
+
+
+## Book 配套书籍、课程
+
+
+
+如果你喜欢本开源书，也欢迎支持下该书的正式出版物，实体店及各大网店有售。
+
+
+* [HarmonyOS NEXT+AI大模型打造智能助手APP(仓颉版)](https://coding.imooc.com/class/927.html)（视频）
+
 
 
 
