@@ -23,6 +23,7 @@
 * [仓颉开发HarmonyOS，@Builder 和@Component的区别？](https://developer.huawei.com/consumer/cn/forum/topic/0201168738273407796)
 * [仓颉开发HarmonyOS，internal import 和import 有什么区别？	](https://developer.huawei.com/consumer/cn/forum/topic/0201168738630513798)
 * [“HarmonyOS NEXT+AI大模型打造智能助手APP(仓颉版)”实战课程简介](https://developer.huawei.com/consumer/cn/forum/topic/0207177697979523118)
+* [使用鸿蒙仓颉编程语言开发“Hello World”应用](https://developer.huawei.com/consumer/cn/forum/topic/0208178470222403321?fid=0109140870620153026)
 * [实战：猜数字游戏](https://developer.huawei.com/consumer/cn/forum/topic/0208178389310767290?fid=0109140870620153026)
 
 ## Samples 示例
