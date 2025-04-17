@@ -27,6 +27,10 @@
 * [实战：猜数字游戏](https://developer.huawei.com/consumer/cn/forum/topic/0208178389310767290?fid=0109140870620153026
 )
 * [谷歌将 Android OS 转为 “内部开发”，对鸿蒙系统来说是否是个机会？](https://developer.huawei.com/consumer/cn/forum/topic/0204178542373267294?fid=0109140870620153026)
+* [【HarmonyOS NEXT+AI】问答01：课程里用的什么大模型？能用DeepSeek吗？](https://developer.huawei.com/consumer/cn/forum/topic/0202179567792367460?fid=0109140870620153026)
+* [科技巨头加倍押注生成式 AI](https://developer.huawei.com/consumer/cn/forum/topic/0207179667509011509?fid=23)
+* [【HarmonyOS NEXT+AI】问答02：有一点编程基础，可以学不？](https://developer.huawei.com/consumer/cn/forum/topic/0207179750550660521?fid=0109140870620153026)
+* [【HarmonyOS NEXT+AI】问答03：找不到DevEco Studio Cangjie Plugin下载链接？](https://developer.huawei.com/consumer/cn/forum/topic/0207180264471291591?fid=0109140870620153026)
 
 ## Samples 示例
 
@@ -82,6 +86,7 @@
 选择下面入口之一：
 
 * <https://github.com/waylau/cangjie-programming-language-tutorial> 的 [README.md](https://github.com/waylau/cangjie-programming-language-tutorial/blob/master/README.md) 
+* <https://gitee.com/waylau/cangjie-programming-language-tutorial> 的 [README.md](https://gitee.com/waylau/cangjie-programming-language-tutorial/blob/master/README.md) 
 
 
 ## Code 源码
