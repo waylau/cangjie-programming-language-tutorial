@@ -31,6 +31,11 @@
 * [科技巨头加倍押注生成式 AI](https://developer.huawei.com/consumer/cn/forum/topic/0207179667509011509?fid=23)
 * [【HarmonyOS NEXT+AI】问答02：有一点编程基础，可以学不？](https://developer.huawei.com/consumer/cn/forum/topic/0207179750550660521?fid=0109140870620153026)
 * [【HarmonyOS NEXT+AI】问答03：找不到DevEco Studio Cangjie Plugin下载链接？](https://developer.huawei.com/consumer/cn/forum/topic/0207180264471291591?fid=0109140870620153026)
+* [【HarmonyOS NEXT+AI】问答04：仓颉编程语言适合毕业设计吗？
+](https://developer.huawei.com/consumer/cn/forum/topic/0201181154070287038?fid=0109140870620153026)
+* [华为首款鸿蒙电脑正式亮相](https://developer.huawei.com/consumer/cn/forum/topic/0202182086290078559?fid=0109140870620153026)
+* [【HarmonyOS NEXT+AI】问答05：ArkTS和仓颉编程语言怎么选？](https://developer.huawei.com/consumer/cn/forum/topic/0204182208074587445?fid=0109140870620153026)
+* [HarmonyOS NEXT+AI打造智能助手APP（适配DeepSeek）](https://developer.huawei.com/consumer/cn/forum/topic/0201182544745864038?fid=0109140870620153026)
 
 ## Samples 示例
 
