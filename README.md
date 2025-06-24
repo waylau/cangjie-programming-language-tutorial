@@ -36,6 +36,7 @@
 * [华为首款鸿蒙电脑正式亮相](https://developer.huawei.com/consumer/cn/forum/topic/0202182086290078559?fid=0109140870620153026)
 * [【HarmonyOS NEXT+AI】问答05：ArkTS和仓颉编程语言怎么选？](https://developer.huawei.com/consumer/cn/forum/topic/0204182208074587445?fid=0109140870620153026)
 * [HarmonyOS NEXT+AI打造智能助手APP（适配DeepSeek）](https://developer.huawei.com/consumer/cn/forum/topic/0201182544745864038?fid=0109140870620153026)
+* [华为自研仓颉编程语言将开源，未来与ArkTS同等地位](https://developer.huawei.com/consumer/cn/forum/topic/0210186139141263055?fid=0109140870620153026)
 
 ## Samples 示例
 
