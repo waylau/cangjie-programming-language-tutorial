@@ -1,0 +1,13 @@
+[dependencies]
+
+[package]
+  cjc-version = "0.53.8"
+  compile-option = ""
+  description = "nothing here"
+  link-option = ""
+  name = "unittest_demo"
+  output-type = "executable"
+  src-dir = ""
+  target-dir = ""
+  version = "1.0.0"
+  package-configuration = {}

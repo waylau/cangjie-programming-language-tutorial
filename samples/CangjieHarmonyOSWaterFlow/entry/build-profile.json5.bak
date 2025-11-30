@@ -1,0 +1,15 @@
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    "cangjieOptions": {
+      "path": "./src/main/cangjie/cjpm.toml"
+    }
+  },
+  "buildOptionSet": [
+  ],
+  "targets": [
+    {
+      "name": "default"
+    }
+  ]
+}

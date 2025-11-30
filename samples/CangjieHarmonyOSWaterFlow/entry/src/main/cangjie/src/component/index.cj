@@ -1,0 +1,1 @@
+package ohos_app_cangjie_entry.component
