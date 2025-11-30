@@ -115,7 +115,7 @@
 
 
 * [HarmonyOS NEXT+AI大模型打造智能助手APP(仓颉版)](https://coding.imooc.com/class/927.html)（视频）
-* [仓颉编程从入门到实践](https://coding.imooc.com/class/927.html)(北京大学出版社2025年11月出版)
+* [仓颉编程从入门到实践](https://coding.imooc.com/class/927.html)（北京大学出版社2025年11月出版）
 
 
 
