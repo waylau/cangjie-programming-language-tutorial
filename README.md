@@ -15,6 +15,7 @@
 ## Summary 目录
 
 
+* [欢迎进入仓颉编程语言编程世界](https://developer.huawei.com/consumer/cn/forum/topic/0203200568540449869?fid=0109140870620153026)
 * [仓颉编程语言开发环境搭建（安装仓颉工具链）](https://waylau.com/install-cangjie-lang/)
 * [仓颉编程语言开发环境搭建（安装VSCode仓颉插件）](https://waylau.com/install-cangjie-plugin-in-vscode/)
 * [DevEco Studio 5.0.1 Beta3安装及配置](https://developer.huawei.com/consumer/cn/forum/topic/0201167060557489345)
@@ -114,7 +115,7 @@
 如果你喜欢本开源书，也欢迎支持下该书的正式出版物，实体店及各大网店有售。
 
 
-* [HarmonyOS NEXT+AI大模型打造智能助手APP(仓颉版)](https://coding.imooc.com/class/927.html)（视频）
+* [HarmonyOS NEXT+AI大模型打造智能助手APP（仓颉版）](https://coding.imooc.com/class/927.html)（视频）
 * [仓颉编程从入门到实践](https://waylau.com/about-cangjie-programming-language-tutorial-book/)（北京大学出版社2025年11月出版）
 
 
