@@ -45,6 +45,8 @@
 * [【HarmonyOS NEXT+AI】问答07：DevEco Studio Cangjie Plugin在哪里下载？为什么看不到？](https://developer.huawei.com/consumer/cn/forum/topic/0201195374935980891?fid=0109140870620153026)
 * [Cangjie新作《仓颉编程从入门到实践》简介](https://waylau.com/about-cangjie-programming-language-tutorial-book/)
 * [变量与常量](https://developer.huawei.com/consumer/cn/forum/topic/0202201173996390689)
+* [标识符与程序结构](https://www.imooc.com/article/387204)
+* [函数](https://www.imooc.com/article/387396)
 * 未完待续...
 
 ## Samples 示例
