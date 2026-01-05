@@ -47,6 +47,7 @@
 * [变量与常量](https://developer.huawei.com/consumer/cn/forum/topic/0202201173996390689)
 * [标识符与程序结构](https://www.imooc.com/article/387204)
 * [函数](https://www.imooc.com/article/387396)
+* [注释](https://www.imooc.com/article/387626)
 * 未完待续...
 
 ## Samples 示例
