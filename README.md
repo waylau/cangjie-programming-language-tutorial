@@ -49,6 +49,7 @@
 * [函数](https://www.imooc.com/article/387396)
 * [注释](https://www.imooc.com/article/387626)
 * [流程控制](https://www.imooc.com/article/387890)
+* [结构类型](https://developer.huawei.com/consumer/cn/blog/topic/03204193158696030)
 * 未完待续...
 
 ## Samples 示例
