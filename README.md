@@ -51,6 +51,8 @@
 * [流程控制](https://www.imooc.com/article/387890)
 * [结构类型](https://developer.huawei.com/consumer/cn/blog/topic/03204193158696030)
 * [统计字符串的字符数](https://developer.huawei.com/consumer/cn/forum/topic/0203204797123131266?fid=0109140870620153026)
+* [不信谣！仓颉编程语言真不是中文编程语言](https://www.bilibili.com/video/BV1qHFPz9EKv)（视频）
+* [【HarmonyOS NEXT+AI】问答08：仓颉编程语言是中文编程语言吗？](https://www.imooc.com/article/388619)
 * 未完待续...
 
 ## Samples 示例
