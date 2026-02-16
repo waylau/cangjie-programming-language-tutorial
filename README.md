@@ -54,6 +54,7 @@
 * [不信谣！仓颉编程语言真不是中文编程语言](https://www.bilibili.com/video/BV1qHFPz9EKv)（视频）
 * [【HarmonyOS NEXT+AI】问答08：仓颉编程语言是中文编程语言吗？](https://www.imooc.com/article/388619)
 * [整数类型](https://www.imooc.com/article/388873)
+* [浮点类型](https://www.imooc.com/article/389025)
 * 未完待续...
 
 ## Samples 示例
@@ -126,8 +127,9 @@
 
 
 * [HarmonyOS NEXT+AI大模型打造智能助手APP（仓颉版）](https://coding.imooc.com/class/927.html)（视频）
-* [仓颉编程从入门到实践](https://waylau.com/about-cangjie-programming-language-tutorial-book/)（北京大学出版社2025年11月出版）
-
+* [仓颉编程从入门到实践](https://waylau.com/about-cangjie-programming-language-tutorial-book/)（北京大学出版社）
+	* [京东](https://item.jd.com/15220500.html)
+	* [当当](https://product.dangdang.com/29968628.html)
 
 
 ## Issue 意见、建议
