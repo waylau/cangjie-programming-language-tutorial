@@ -55,6 +55,7 @@
 * [【HarmonyOS NEXT+AI】问答08：仓颉编程语言是中文编程语言吗？](https://www.imooc.com/article/388619)
 * [整数类型](https://www.imooc.com/article/388873)
 * [浮点类型](https://www.imooc.com/article/389025)
+* [布尔类型、字符类型](https://www.imooc.com/article/389045)
 * 未完待续...
 
 ## Samples 示例
